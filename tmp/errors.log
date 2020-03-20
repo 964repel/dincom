@@ -1,0 +1,1372 @@
+[2019-12-12 22-04-40] Текст ошибки: (No connect)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Db.php)  |  Строка: 
+        (19) 
+=====
+[2019-12-13 01-20-58] Текст ошибки: (Controller app\controllers\PageController not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (39) 
+=====
+[2019-12-13 01-32-27] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-13 01-32-31] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-13 01-46-02] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-13 01-46-20] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-13 01-47-51] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-17 03-32-45] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-17 03-32-46] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2019-12-23 07-34-26] Текст ошибки: (syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\MainController.php)  |  Строка: 
+        (20) 
+=====
+[2019-12-23 07-58-11] Текст ошибки: (syntax error, unexpected '}', expecting identifier (T_STRING))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\MainController.php)  |  Строка: 
+        (18) 
+=====
+[2019-12-23 07-58-20] Текст ошибки: (syntax error, unexpected '}', expecting identifier (T_STRING))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\MainController.php)  |  Строка: 
+        (18) 
+=====
+[2019-12-23 07-58-22] Текст ошибки: (syntax error, unexpected '}', expecting identifier (T_STRING))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\MainController.php)  |  Строка: 
+        (18) 
+=====
+[2019-12-23 08-29-16] Текст ошибки: (Controller app\controllers\EventsController not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (39) 
+=====
+[2019-12-24 09-22-50] Текст ошибки: (Class 'app\controllers\StudyLevel' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (14) 
+=====
+[2019-12-24 09-24-30] Текст ошибки: (Controller app\controllers\DsController not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (39) 
+=====
+[2019-12-24 09-24-35] Текст ошибки: (Class 'app\controllers\StudyLevel' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (14) 
+=====
+[2019-12-24 09-25-00] Текст ошибки: (Class 'app\controllers\StudyLevel' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (14) 
+=====
+[2019-12-24 09-25-16] Текст ошибки: (Class 'app\controllers\StudyLevel' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (14) 
+=====
+[2019-12-24 09-26-25] Текст ошибки: (syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (32) 
+=====
+[2019-12-24 09-26-26] Текст ошибки: (syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (32) 
+=====
+[2019-12-24 09-28-12] Текст ошибки: (syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (32) 
+=====
+[2019-12-24 09-28-14] Текст ошибки: (syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (32) 
+=====
+[2019-12-24 09-28-18] Текст ошибки: (syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (32) 
+=====
+[2019-12-24 09-50-19] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 09-50-49] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 09-54-37] Текст ошибки: (Too few arguments to function dinkom\Registry::setProperties(), 1 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (13) 
+=====
+[2019-12-24 09-54-46] Текст ошибки: (Too few arguments to function dinkom\Registry::setProperties(), 1 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (13) 
+=====
+[2019-12-24 09-54-58] Текст ошибки: (Too few arguments to function dinkom\Registry::setProperties(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (13) 
+=====
+[2019-12-24 09-57-07] Текст ошибки: (Too few arguments to function dinkom\Registry::setProperties(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 18 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (13) 
+=====
+[2019-12-24 09-57-42] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 09-57-42] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 09-58-07] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-01-17] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-02-20] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-02-22] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-02-23] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-02-38] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-02-56] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-03-33] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 18 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-06-33] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-06-55] Текст ошибки: (Call to undefined method dinkom\Registry::setProperty())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (16) 
+=====
+[2019-12-24 10-08-08] Текст ошибки: (Too few arguments to function dinkom\Registry::getProperty(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php on line 17 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Registry.php)  |  Строка: 
+        (16) 
+=====
+[2020-01-09 17-27-33] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-27-41] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-28-22] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-28-24] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-28-25] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-29-29] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-29-41] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-29-56] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-30-05] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-30-50] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-31-14] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-31-44] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-35-10] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-35-12] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-36-40] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-39-23] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-39-42] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-39-46] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-39-46] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-43-01] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-43-24] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-43-38] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-44-53] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-44-55] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-44-57] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 17-49-51] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-24-42] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-27-06] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-27-09] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-27-12] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-27-23] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-27-32] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-35-56] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-36-36] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-43-22] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 18-43-48] Текст ошибки: (Class 'app\widgets\studyLevel\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\studyLevel\StudyLevel.php)  |  Строка: 
+        (24) 
+=====
+[2020-01-09 19-21-18] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-21-21] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-22-37] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-28-32] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-28-38] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-30-10] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-30-55] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-30-59] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-33-40] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-33-52] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-45-31] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-47-26] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-50-10] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-50-41] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-50-42] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-50-49] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-50-58] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-51-05] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-51-09] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-52-24] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-52-31] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-55-49] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-58-26] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-58-36] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-59-03] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 19-59-08] Текст ошибки: (Page not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-09 20-01-53] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-01-58] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-02-39] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-05-15] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-11-41] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-11-48] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-17-24] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-21-45] Текст ошибки: (Контроллер app\controllers\DsadController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-09 20-24-25] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-25-17] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-25-19] Текст ошибки: (Контроллер app\controllers\DsadController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-09 20-26-06] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-26-23] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-29-37] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-31-03] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-31-56] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-32-00] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-32-24] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-32-25] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-35-03] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.studylevel' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-01-09 20-36-13] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.studylevel' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-01-09 20-45-13] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-45-20] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-09 20-45-22] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 05-17-59] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 05-18-04] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 05-18-11] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 05-18-29] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 05-28-23] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 05-29-15] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 15-44-17] Текст ошибки: (syntax error, unexpected '$this' (T_VARIABLE))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\MainController.php)  |  Строка: 
+        (17) 
+=====
+[2020-01-13 15-46-07] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-13 15-46-18] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-13 15-46-21] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-13 16-38-42] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 16-57-04] Текст ошибки: (syntax error, unexpected ',')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\menu\Menu.php)  |  Строка: 
+        (28) 
+=====
+[2020-01-13 18-12-27] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 18-48-59] Текст ошибки: (syntax error, unexpected 'protected' (T_PROTECTED))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\menu\Menu.php)  |  Строка: 
+        (62) 
+=====
+[2020-01-13 19-20-04] Текст ошибки: (Class 'app\widgets\menu\Menu' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\studycenter.php)  |  Строка: 
+        (65) 
+=====
+[2020-01-13 19-42-19] Текст ошибки: (syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Main\index.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-13 19-54-40] Текст ошибки: (syntax error, unexpected ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\AppController.php)  |  Строка: 
+        (20) 
+=====
+[2020-01-13 19-55-00] Текст ошибки: (Class 'app\widgets\menu\Cache' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\menu\Menu.php)  |  Строка: 
+        (37) 
+=====
+[2020-01-13 20-05-20] Текст ошибки: (Class 'app\widgets\menu\App' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\menu\Menu.php)  |  Строка: 
+        (42) 
+=====
+[2020-01-13 20-18-09] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 21-52-15] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 21-54-36] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-13 21-54-55] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-13 22-31-31] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-13 23-55-23] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.eevents' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-01-14 00-19-14] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-19-32] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-19-51] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-19-59] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-20-04] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-20-43] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-24-18] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-24-35] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-24-39] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-24-48] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-24-56] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-24-58] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-25-26] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-25-56] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-26-28] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-26-33] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-26-41] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-26-42] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-26-46] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-26-49] Текст ошибки: (Контроллер app\controllers\CursesController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-29-30] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-29-40] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-31-25] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-31-37] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-31-46] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 00-33-21] Текст ошибки: (Контроллер app\controllers\EventsController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 00-34-40] Текст ошибки: (Метод app\controllers\EventsController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-01-14 00-36-03] Текст ошибки: (Метод app\controllers\EventsController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-01-14 00-36-06] Текст ошибки: (Метод app\controllers\EventsController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-01-14 00-36-46] Текст ошибки: (Метод app\controllers\EventsController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-01-14 00-37-39] Текст ошибки: (Метод app\controllers\EventsController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-01-14 00-39-17] Текст ошибки: (Метод app\controllers\EventsController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-01-14 02-18-02] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\CursesController.php)  |  Строка: 
+        (13) 
+=====
+[2020-01-14 02-26-59] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 02-27-04] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 02-40-37] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 02-41-23] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 02-42-00] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 02-43-01] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-12-15] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-18-14] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-18-19] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-19-20] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-19-35] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-20-00] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-20-08] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-21-23] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-29-47] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 03-48-08] Текст ошибки: (syntax error, unexpected 'switch' (T_SWITCH))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Events\view.php)  |  Строка: 
+        (86) 
+=====
+[2020-01-14 03-56-10] Текст ошибки: (syntax error, unexpected '(', expecting ':')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Events\view.php)  |  Строка: 
+        (89) 
+=====
+[2020-01-14 04-34-16] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-01-14 04-56-14] Текст ошибки: (SQLSTATE[42S22]: Column not found: 1054 Unknown column 'related.related_id' in 'on clause')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-01-14 05-31-21] Текст ошибки: (Контроллер app\controllers\EventController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-01-14 05-31-35] Текст ошибки: (Контроллер app\controllers\EventController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-07 14-44-33] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-33] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-33] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-51] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-51] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-51] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-55] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-55] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 14-44-55] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 15-26-58] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 16-38-54] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-07 20-30-26] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 04-29-20] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-08 04-33-17] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-08 04-52-29] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 04-53-28] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 04-54-51] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 04-54-58] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-00-25] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-00-40] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-02-33] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-08-21] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-08 07-08-29] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-08-36] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-08 07-32-22] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-33-21] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-33-27] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-38-20] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-38-46] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-40-12] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-40-23] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-41-41] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 07-47-41] Текст ошибки: (Контроллер app\controllers\CartController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-08 09-54-20] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.event' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-08 11-51-45] Текст ошибки: (syntax error, unexpected '{')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\models\Cart.php)  |  Строка: 
+        (15) 
+=====
+[2020-02-08 12-13-02] Текст ошибки: (syntax error, unexpected ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\models\Cart.php)  |  Строка: 
+        (20) 
+=====
+[2020-02-08 12-13-14] Текст ошибки: (syntax error, unexpected ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\models\Cart.php)  |  Строка: 
+        (20) 
+=====
+[2020-02-08 14-32-28] Текст ошибки: (Метод app\controllers\CartController::showAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-08 14-33-42] Текст ошибки: (Метод app\controllers\CartController::showAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-08 15-05-49] Текст ошибки: (syntax error, unexpected '}')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\CartController.php)  |  Строка: 
+        (39) 
+=====
+[2020-02-08 15-43-56] Текст ошибки: (Метод app\controllers\CartController::viewAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 09-04-15] Текст ошибки: (Метод app\controllers\CartController::viewAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 11-30-48] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-23-25] Текст ошибки: (Контроллер app\controllers\SearchController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-09 14-33-31] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-33-39] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-33-42] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-33-43] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-34-02] Текст ошибки: (Метод app\controllers\SearchController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 14-34-06] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-43-46] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-43-46] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-43-53] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-43-55] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-43-58] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-00] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-01] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-01] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-03] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-21] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-22] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-30] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-31] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-34] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-49] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-44-52] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-46-06] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-47-00] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-47-02] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-47-04] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-48-38] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-48-53] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-49-04] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-49-05] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-49-08] Текст ошибки: (Метод app\controllers\SearchController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 14-50-22] Текст ошибки: (Метод app\controllers\SearchController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 14-53-07] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 14-55-17] Текст ошибки: (Метод app\controllers\SearchController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 15-16-56] Текст ошибки: (Метод app\controllers\SearchController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-09 15-50-17] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.event' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-09 15-50-30] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.event' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-09 15-50-47] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.event' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-09 16-27-29] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 17-09-30] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-09 17-09-41] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-09 17-09-52] Текст ошибки: (Контроллер app\controllers\CategoryController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-09 17-27-38] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 17-37-44] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 17-37-58] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-12-56] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 18-13-02] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 18-13-06] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-13-16] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-13-18] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 18-15-39] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-16-02] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-16-05] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 18-16-23] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 18-16-49] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-17-58] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 18-20-07] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-09 19-04-34] Текст ошибки: (Class 'mysql_xdevapi\Exception' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\CategoryController.php)  |  Строка: 
+        (16) 
+=====
+[2020-02-09 19-11-04] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 19-31-43] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 19-31-47] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 19-31-52] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 19-31-57] Текст ошибки: (Not found view view)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-09 19-39-02] Текст ошибки: (Too few arguments to function h(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Category\view.php on line 6 and exactly 1 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\libs\functions.php)  |  Строка: 
+        (17) 
+=====
+[2020-02-10 05-20-29] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-10 05-20-40] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-02-10 05-20-48] Текст ошибки: (Контроллер app\controllers\ProductController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-10 07-01-30] Текст ошибки: (syntax error, unexpected '$pagination' (T_VARIABLE))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\CategoryController.php)  |  Строка: 
+        (34) 
+=====
+[2020-02-10 07-02-58] Текст ошибки: (syntax error, unexpected '$pagination' (T_VARIABLE))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\CategoryController.php)  |  Строка: 
+        (34) 
+=====
+[2020-02-10 07-03-02] Текст ошибки: (syntax error, unexpected '$pagination' (T_VARIABLE))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\CategoryController.php)  |  Строка: 
+        (34) 
+=====
+[2020-02-10 07-40-56] Текст ошибки: (Контроллер app\controllers\ProductController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-10 16-39-27] Текст ошибки: (SQLSTATE[42S22]: Column not found: 1054 Unknown column 'DateTime.Now' in 'where clause')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 16-41-15] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION dinkom.GETDATE does not exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 17-15-28] Текст ошибки: (SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,COERCIBLE) for operation 'like')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 17-15-28] Текст ошибки: (SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,COERCIBLE) for operation 'like')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 17-15-29] Текст ошибки: (SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_0900_ai_ci,COERCIBLE) for operation 'like')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 17-33-32] Текст ошибки: (Контроллер app\controllers\UserController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-02-10 19-02-25] Текст ошибки: (Class 'Valitron\Validator' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\Model.php)  |  Строка: 
+        (30) 
+=====
+[2020-02-10 19-02-46] Текст ошибки: (Class 'Valitron\Validator' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\Model.php)  |  Строка: 
+        (30) 
+=====
+[2020-02-10 19-03-07] Текст ошибки: (Class 'Valitron\Validator' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\Model.php)  |  Строка: 
+        (30) 
+=====
+[2020-02-10 19-11-57] Текст ошибки: (Rule 'lenghtMin' has not been registered with Valitron\Validator::addRule().)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\vlucas\valitron\src\Valitron\Validator.php)  |  Строка: 
+        (1383) 
+=====
+[2020-02-10 19-38-36] Текст ошибки: (Fail to load language file 'C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local/public/validator/lang/ru.php')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\vlucas\valitron\src\Valitron\Validator.php)  |  Строка: 
+        (113) 
+=====
+[2020-02-10 19-52-29] Текст ошибки: (SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 19-53-07] Текст ошибки: (SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 19-53-58] Текст ошибки: (SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 19-55-31] Текст ошибки: (SQLSTATE[HY000]: General error: 1364 Field 'password' doesn't have a default value)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 19-56-32] Текст ошибки: (SQLSTATE[HY000]: General error: 1364 Field 'tel' doesn't have a default value)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 20-03-05] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'chrome42@mail.ru' for key 'email')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 20-17-50] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 20-17-55] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 20-17-58] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 20-18-01] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 20-18-34] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-10 21-13-35] Текст ошибки: (Not found view logout)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-02-26 17-35-09] Текст ошибки: (Метод app\controllers\CartController::viewAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-26 17-35-39] Текст ошибки: (Метод app\controllers\CartController::viewAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-02-26 21-26-59] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-26 21-27-11] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-02-26 21-27-16] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-12 18-26-40] Текст ошибки: (Метод app\controllers\CartController::checkoutAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-12 19-21-06] Текст ошибки: (SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tite' in 'field list')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-12 19-21-46] Текст ошибки: (SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ptice' in 'field list')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 06-15-49] Текст ошибки: (Call to undefined method app\widgets\filter\Filter::getAttrs())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\filter\Filter.php)  |  Строка: 
+        (30) 
+=====
+[2020-03-17 06-48-50] Текст ошибки: (syntax error, unexpected ';', expecting ']')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\filter\Filter.php)  |  Строка: 
+        (45) 
+=====
+[2020-03-17 16-12-16] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date DESC LIMIT 0, 3  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-13-39] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date DESC LIMIT 0, 3  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-13-41] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date DESC LIMIT 0, 3  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-13-48] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date DESC LIMIT 0, 3  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-14-04] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-21-24] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date DESC  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-21-46] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date DESC  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-17 16-21-57] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY date  -- keep-cache' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-01-53] Текст ошибки: (SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'group statement')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-02-24] Текст ошибки: (SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'group statement')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-03-15] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION dinkom.COUNT does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-04-01] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION dinkom.COUNT does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-04-20] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION dinkom.COUN1T does not exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-07-14] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION dinkom.COUNT does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 04-07-22] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION dinkom.COUNT does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 06-13-26] Текст ошибки: (Class 'R' not found)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\studycenter.php)  |  Строка: 
+        (285) 
+=====
+[2020-03-18 14-21-21] Текст ошибки: (Not found view login-admin)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-03-18 14-21-36] Текст ошибки: (Not found view login-admin)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-03-18 14-21-40] Текст ошибки: (Not found view login-admin)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\base\View.php)  |  Строка: 
+        (42) 
+=====
+[2020-03-18 17-59-17] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id', `order`.'user_id', `order`.'status', `order`.'date', `order`.'update', `us' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-02-23] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-02-31] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-02-59] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-03-37] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-05-06] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-07-48] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-10-55] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #7 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'dinkom.order_event.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-30-58] Текст ошибки: (Метод app\controllers\admin\OrderController::viewAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-18 18-40-08] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EQUI JOIN `order_event` ON `order`.`id` = `order_event`.`order_id`
+GROUP BY `or' at line 3)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-42-18] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EQUI JOIN `order_event` ON `order`.`id` = `order_event`.`order_id`
+GROUP BY `or' at line 3)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-50-39] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `order_event` ON `order`.`id` = `order_event`.`order_id`
+GROUP BY `o' at line 3)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 18-53-52] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FULL JOIN `order_event` ON `order`.`id` = `order_event`.`order_id`
+GROUP BY `or' at line 3)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-18 19-25-33] Текст ошибки: (Метод app\controllers\admin\OrderController::viewAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-19 00-44-00] Текст ошибки: (syntax error, unexpected ';', expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 00-44-02] Текст ошибки: (syntax error, unexpected ';', expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 00-44-48] Текст ошибки: (syntax error, unexpected ';', expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 00-44-49] Текст ошибки: (syntax error, unexpected ';', expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 00-45-56] Текст ошибки: (syntax error, unexpected 'debug' (T_STRING))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 00-46-48] Текст ошибки: (syntax error, unexpected '?>', expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 00-47-12] Текст ошибки: (syntax error, unexpected ':', expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\login.php)  |  Строка: 
+        (53) 
+=====
+[2020-03-19 01-43-38] Текст ошибки: (syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\admin\Order\view.php)  |  Строка: 
+        (44) 
+=====
+[2020-03-19 02-07-44] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-03-19 02-11-37] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-03-19 02-31-29] Текст ошибки: (syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\layouts\admin.php)  |  Строка: 
+        (279) 
+=====
+[2020-03-19 02-32-48] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-03-19 02-33-02] Текст ошибки: (Страница не найдена)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (41) 
+=====
+[2020-03-19 04-02-23] Текст ошибки: (Метод app\controllers\admin\OrderController::deleteAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-19 04-03-27] Текст ошибки: (Метод app\controllers\admin\OrderController::deleteAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-19 04-12-15] Текст ошибки: (Call to undefined method app\controllers\admin\OrderController::date())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\OrderController.php)  |  Строка: 
+        (51) 
+=====
+[2020-03-19 04-12-20] Текст ошибки: (Call to undefined method app\controllers\admin\OrderController::date())  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\OrderController.php)  |  Строка: 
+        (51) 
+=====
+[2020-03-19 05-57-09] Текст ошибки: (SQLSTATE[HY093]: Invalid parameter number: no parameters were bound)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-19 06-19-28] Текст ошибки: (Метод app\controllers\admin\CategoryController::editAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-19 06-52-11] Текст ошибки: (Метод app\controllers\admin\CategoryController::editAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-19 09-06-02] Текст ошибки: (Контроллер app\controllers\admin\EventController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-03-19 15-13-24] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: $start)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-19 17-12-48] Текст ошибки: (Метод app\controllers\admin\UserController::deleteAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-19 17-46-21] Текст ошибки: (Контроллер app\controllers\admin\ProductController не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (38) 
+=====
+[2020-03-19 18-00-18] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10, 10' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 00-42-35] Текст ошибки: (syntax error, unexpected 'redirect' (T_STRING))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\EventController.php)  |  Строка: 
+        (36) 
+=====
+[2020-03-20 00-43-14] Текст ошибки: (syntax error, unexpected 'redirect' (T_STRING))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\EventController.php)  |  Строка: 
+        (36) 
+=====
+[2020-03-20 00-43-56] Текст ошибки: (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dinkom.event' doesn't exist)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 00-53-26] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 01-17-11] Текст ошибки: (syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\EventController.php)  |  Строка: 
+        (42) 
+=====
+[2020-03-20 01-17-11] Текст ошибки: (syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\EventController.php)  |  Строка: 
+        (42) 
+=====
+[2020-03-20 01-17-11] Текст ошибки: (syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ')')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\controllers\admin\EventController.php)  |  Строка: 
+        (42) 
+=====
+[2020-03-20 01-18-49] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asdasd' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 01-19-43] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asdasd' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 01-29-26] Текст ошибки: (Метод app\controllers\admin\EventController::editAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 02-20-33] Текст ошибки: (Too few arguments to function app\widgets\filter\Filter::__construct(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Category\view.php on line 48 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\filter\Filter.php)  |  Строка: 
+        (16) 
+=====
+[2020-03-20 02-20-36] Текст ошибки: (Too few arguments to function app\widgets\filter\Filter::__construct(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Category\view.php on line 48 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\filter\Filter.php)  |  Строка: 
+        (16) 
+=====
+[2020-03-20 02-20-40] Текст ошибки: (Too few arguments to function app\widgets\filter\Filter::__construct(), 0 passed in C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\views\Category\view.php on line 48 and exactly 2 expected)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\widgets\filter\Filter.php)  |  Строка: 
+        (16) 
+=====
+[2020-03-20 03-08-59] Текст ошибки: (syntax error, unexpected ',', expecting :: (T_PAAMAYIM_NEKUDOTAYIM))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\models\admin\Event.php)  |  Строка: 
+        (46) 
+=====
+[2020-03-20 03-10-00] Текст ошибки: (syntax error, unexpected ',', expecting :: (T_PAAMAYIM_NEKUDOTAYIM))  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\app\models\admin\Event.php)  |  Строка: 
+        (59) 
+=====
+[2020-03-20 04-05-20] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-05-21] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-05-22] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-15-41] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-15-41] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-15-43] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-15-44] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-16-50] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-16-50] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-16-52] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-16-52] Текст ошибки: (Метод app\controllers\admin\EventController::relatedProductAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-16-59] Текст ошибки: (Метод app\controllers\admin\EventController::relatedEventAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-17-03] Текст ошибки: (Метод app\controllers\admin\EventController::relatedEventAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-17-33] Текст ошибки: (Метод app\controllers\admin\EventController::relatedEventAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-18-09] Текст ошибки: (Метод app\controllers\admin\EventController::relatedEventAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 04-46-05] Текст ошибки: (Метод app\controllers\CategoryController::indexAction не найден)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\vendor\dinkom.local\core\Router.php)  |  Строка: 
+        (35) 
+=====
+[2020-03-20 05-44-53] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '131' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 05-45-00] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '131' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 05-46-28] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '131asdasdsad' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 05-46-48] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '131asdasdsad' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-24-25] Текст ошибки: (SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qwdasd' for key 'title')  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-25-07] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-37-29] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-43-52] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-45-14] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-45-15] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====
+[2020-03-20 06-45-19] Текст ошибки: (SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' at line 1)  | Файл: (C:\Users\deal1\Desktop\openServer\OSPanel\domains\dinkom.local\rb\rb-mysql.php)  |  Строка: 
+        (810) 
+=====

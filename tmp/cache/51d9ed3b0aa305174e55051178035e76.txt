@@ -1,0 +1,19 @@
+a:2:{s:4:"data";s:783:"<li>
+    <a href="/category/cursy">Курсы</a>
+            <ul>
+            <li>
+    <a href="/category/reclama-i-marketing">Реклама и Маркетинг</a>
+    </li><li>
+    <a href="/category/buhgalterskiy-uchet">Бухгалтерский Учет</a>
+    </li><li>
+    <a href="/category/upravlenie-personalom">Управление персоналом</a>
+    </li><li>
+    <a href="/category/bezopasnost">Безопасность</a>
+    </li><li>
+    <a href="/category/medicina">Медицина и Здравоохранение</a>
+    </li>        </ul>
+    </li><li>
+    <a href="/category/calendar">Календарь мероприятий</a>
+    </li><li>
+    <a href="/category/articles">Материалы и статьи</a>
+    </li>";s:8:"end_time";i:1584701757;}

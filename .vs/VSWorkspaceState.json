@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\views",
+    "\\app\\views\\layouts",
+    "\\app\\widgets",
+    "\\app\\widgets\\studyLevel",
+    "\\app\\widgets\\studyLevel\\studyLevel_tpl",
+    "\\vendor",
+    "\\vendor\\dinkom.local",
+    "\\vendor\\dinkom.local\\core",
+    "\\vendor\\dinkom.local\\core\\base"
+  ],
+  "SelectedNode": "\\app\\controllers\\AppController.php",
+  "PreviewInSolutionExplorer": false
+}

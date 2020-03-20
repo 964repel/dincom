@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="879925f6-bc8c-42af-96fe-b50d27bff25a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/models/Order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/mail/mail_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dinkom.new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dinkom.new.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/CartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/CartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/SearchController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/SearchController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/AppModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/AppModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Category/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Category/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Curses/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Curses/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Events/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Events/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Search/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Search/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/User/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/User/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/studycenter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/studycenter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/params.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logod.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logod.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/51d9ed3b0aa305174e55051178035e76.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/dinkom.local/core/base/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/dinkom.local/core/base/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/dinkom.local/core/libs/Pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/dinkom.local/core/libs/Pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/dinkom.local/core/libs/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/dinkom.local/core/libs/functions.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/dinkom.new/core" />
+      <path value="$PROJECT_DIR$/vendor/dinkom.local/core" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Ul29iSEejNFQConxEFIyOvEpWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="\dinkom\App()" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="879925f6-bc8c-42af-96fe-b50d27bff25a" name="Default Changelist" comment="" />
+      <created>1575916714136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575916714136</updated>
+      <workItem from="1575916720957" duration="1405000" />
+      <workItem from="1575918332301" duration="1412000" />
+      <workItem from="1575919780864" duration="3682000" />
+      <workItem from="1575928792190" duration="14168000" />
+      <workItem from="1575997317380" duration="20746000" />
+      <workItem from="1576168429886" duration="5813000" />
+      <workItem from="1576177468754" duration="7754000" />
+      <workItem from="1576528760950" duration="1293000" />
+      <workItem from="1577067755944" duration="8802000" />
+      <workItem from="1577165914407" duration="5424000" />
+      <workItem from="1577415297246" duration="6000" />
+      <workItem from="1578568741388" duration="5000" />
+      <workItem from="1578583131433" duration="9972000" />
+      <workItem from="1578881991993" duration="4384000" />
+      <workItem from="1578914799679" duration="20337000" />
+      <workItem from="1578940669632" duration="27930000" />
+      <workItem from="1581073641663" duration="40824000" />
+      <workItem from="1581228425511" duration="25433000" />
+      <workItem from="1581298670341" duration="10504000" />
+      <workItem from="1581341867740" duration="16909000" />
+      <workItem from="1582727583334" duration="5530000" />
+      <workItem from="1584023424789" duration="8182000" />
+      <workItem from="1584409358738" duration="7479000" />
+      <workItem from="1584442683125" duration="9347000" />
+      <workItem from="1584486004997" duration="17111000" />
+      <workItem from="1584529458550" duration="16729000" />
+      <workItem from="1584567147576" duration="26304000" />
+      <workItem from="1584615682725" duration="13664000" />
+      <workItem from="1584650631447" duration="24640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578941745094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578941745094" />
+    <state x="520" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581146492066">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="520" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1581146492066" />
+    <state x="353" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584628046865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="353" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1584628046865" />
+    <state x="499" y="178" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1581124751449">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="178" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.864@0.0.1536.864" timestamp="1581124751449" />
+    <state x="631" y="235" key="NewPhpClassDialog" timestamp="1584671119349">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="631" y="226" key="NewPhpClassDialog/0.0.1536.832@0.0.1536.832" timestamp="1576178400589" />
+    <state x="631" y="235" key="NewPhpClassDialog/0.0.1536.864@0.0.1536.864" timestamp="1584671119349" />
+    <state x="604" y="352" key="NewPhpFileDialog" timestamp="1584671127039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="604" y="339" key="NewPhpFileDialog/0.0.1536.832@0.0.1536.832" timestamp="1576182544907" />
+    <state x="604" y="352" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1584671127039" />
+    <state x="470" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1584650634859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1576177469002" />
+    <state x="470" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584650634859" />
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1" timestamp="1584535121655">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1584535121655" />
+    <state x="462" y="37" width="611" height="789" key="find.popup" timestamp="1581260475558">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="462" y="37" width="611" height="789" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1581260475558" />
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1584539009591">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1584539009591" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578934438196">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578934438196" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/views/Events/view.php</url>
+          <line>140</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
